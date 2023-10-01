@@ -12,3 +12,4 @@ let num3 =14
 let num4=5
 
 const max =Math.max(1, 2, 3, 4, 5,20);
+// i love it js
